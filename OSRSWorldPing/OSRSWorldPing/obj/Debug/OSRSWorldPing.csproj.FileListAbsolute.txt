@@ -1,0 +1,6 @@
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.exe.config
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.exe
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.pdb
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.exe
+D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.pdb
