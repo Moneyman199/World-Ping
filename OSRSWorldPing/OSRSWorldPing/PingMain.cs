@@ -27,7 +27,7 @@ namespace OSRSWorldPing
 
         static void Begin()
         {
-            int minPing = MinAcceptPing();
+            int maxPing = MaxAcceptPing();
 
             bestTime.Clear();
 
@@ -42,10 +42,10 @@ namespace OSRSWorldPing
                 GetPing(server);
             }
 
-            Console.WriteLine("BELOW SERVERS USING MIN PING OF " + minPing + " ms"); 
+            Console.WriteLine("BELOW SERVERS USING MIN PING OF " + maxPing + " ms"); 
             foreach (var item in bestTime) 
             {
-                if (item.ResponseTime <= minPing)
+                if (item.ResponseTime <= maxPing)
                 {
                     Console.WriteLine("Server: " + item.Server + "\nTime: " + item.ResponseTime + " ms");
                     Console.WriteLine(" ");
@@ -60,10 +60,10 @@ namespace OSRSWorldPing
             Begin();
         }
 
-        static int MinAcceptPing()
+        static int MaxAcceptPing()
         {
             int a;
-            Console.WriteLine("Type in some number, then press enter...");
+            Console.WriteLine("Type in the maximum acceptable ping to search for. Type 999 for all worlds ping...");
 
             if (int.TryParse(Console.ReadLine(), out a))
             {
@@ -75,7 +75,7 @@ namespace OSRSWorldPing
                 Console.WriteLine("Please enter a whole, non-negative number. Press any key to try again...");
                 Console.ReadKey();
                 Console.Clear();
-                MinAcceptPing();
+                MaxAcceptPing();
             }
 
             return a;
