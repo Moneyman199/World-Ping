@@ -4,3 +4,9 @@ D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPi
 D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.pdb
 D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.exe
 D:\Visual Studio 2017\Projects\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.pdb
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.exe.config
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.exe
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Debug\OSRSWorldPing.pdb
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.csprojResolveAssemblyReference.cache
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.exe
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\obj\Debug\OSRSWorldPing.pdb

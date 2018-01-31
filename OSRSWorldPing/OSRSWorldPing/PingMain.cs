@@ -42,14 +42,8 @@ namespace OSRSWorldPing
                 GetPing(server);
             }
 
-            foreach (var item in bestTime)
-            {
-                Console.WriteLine("Server: " + item.Server + "\nTime: " + item.ResponseTime + " ms");
-                Console.WriteLine(" ");
-            }
-
-            Console.WriteLine("BELOW SERVERS USING MIN PING"); //testing. remove later
-            foreach (var item in bestTime) //testing. remove later
+            Console.WriteLine("BELOW SERVERS USING MIN PING OF " + minPing + " ms"); 
+            foreach (var item in bestTime) 
             {
                 if (item.ResponseTime <= minPing)
                 {
@@ -73,8 +67,7 @@ namespace OSRSWorldPing
 
             if (int.TryParse(Console.ReadLine(), out a))
             {
-                Console.WriteLine("You typed in " + a); //remove this later. Used for testing
-                Console.WriteLine("Working on getting the list ready...");
+                Console.WriteLine("Working on getting the list ready, please wait...");
                 Console.WriteLine(" ");
             }
             else

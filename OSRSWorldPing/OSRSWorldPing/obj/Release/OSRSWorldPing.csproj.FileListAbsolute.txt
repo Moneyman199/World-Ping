@@ -1,0 +1,5 @@
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Release\OSRSWorldPing.exe.config
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Release\OSRSWorldPing.exe
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\bin\Release\OSRSWorldPing.pdb
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\obj\Release\OSRSWorldPing.exe
+D:\Github\World-Ping\OSRSWorldPing\OSRSWorldPing\obj\Release\OSRSWorldPing.pdb
